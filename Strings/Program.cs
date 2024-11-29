@@ -23,3 +23,10 @@ string fullName = firstName + " " + lastName;
 Console.WriteLine(fullName);
 
 //string interpolation
+string fullNameInterpolated = $"{firstName} {lastName}";
+Console.WriteLine(fullNameInterpolated);
+Console.WriteLine($"The result is: {20 * 4}");
+
+//Substrings
+string first4Characters = fullName.Substring(0, 3);
+Console.WriteLine(first4Characters);
