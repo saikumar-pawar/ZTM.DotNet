@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringParsing", "StringPars
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{39947C42-FEE8-4302-AC03-1853E20DC333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{8E80BC60-1DCF-402D-A060-3667AF1E84A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{39947C42-FEE8-4302-AC03-1853E20DC333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39947C42-FEE8-4302-AC03-1853E20DC333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39947C42-FEE8-4302-AC03-1853E20DC333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E80BC60-1DCF-402D-A060-3667AF1E84A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E80BC60-1DCF-402D-A060-3667AF1E84A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E80BC60-1DCF-402D-A060-3667AF1E84A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E80BC60-1DCF-402D-A060-3667AF1E84A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
