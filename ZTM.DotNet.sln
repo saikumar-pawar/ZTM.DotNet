@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "Iter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndLoops", "ConditionalsAndLoops\ConditionalsAndLoops.csproj", "{2634C899-CFEE-453F-AA3B-0B86056F2F92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicClass", "BasicClass\BasicClass.csproj", "{6FEA1EDA-1F0C-43DB-ABF8-6B1DF6E2F36D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2634C899-CFEE-453F-AA3B-0B86056F2F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2634C899-CFEE-453F-AA3B-0B86056F2F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2634C899-CFEE-453F-AA3B-0B86056F2F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEA1EDA-1F0C-43DB-ABF8-6B1DF6E2F36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEA1EDA-1F0C-43DB-ABF8-6B1DF6E2F36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEA1EDA-1F0C-43DB-ABF8-6B1DF6E2F36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEA1EDA-1F0C-43DB-ABF8-6B1DF6E2F36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
