@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{F206AC43-18B3-4ECA-AA5F-ED7F1CF2DDA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{9A04F9B5-29FD-4905-A427-0621ACD144F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F206AC43-18B3-4ECA-AA5F-ED7F1CF2DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F206AC43-18B3-4ECA-AA5F-ED7F1CF2DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F206AC43-18B3-4ECA-AA5F-ED7F1CF2DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A04F9B5-29FD-4905-A427-0621ACD144F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A04F9B5-29FD-4905-A427-0621ACD144F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A04F9B5-29FD-4905-A427-0621ACD144F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A04F9B5-29FD-4905-A427-0621ACD144F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
