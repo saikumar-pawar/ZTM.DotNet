@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const", "Const\Const.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{9BD44598-527F-4F1D-819F-8F2451E3DE66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpressions", "SwitchExpressions\SwitchExpressions.csproj", "{7FFAA979-FC6C-495A-88F4-0441C2FA0655}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{9BD44598-527F-4F1D-819F-8F2451E3DE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD44598-527F-4F1D-819F-8F2451E3DE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD44598-527F-4F1D-819F-8F2451E3DE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFAA979-FC6C-495A-88F4-0441C2FA0655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFAA979-FC6C-495A-88F4-0441C2FA0655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFAA979-FC6C-495A-88F4-0441C2FA0655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFAA979-FC6C-495A-88F4-0441C2FA0655}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
