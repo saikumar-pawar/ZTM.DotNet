@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodArguments", "MethodAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{415E551C-49A7-4634-83DF-6BB44E8B8DB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{2517280F-71F1-40DE-BD93-F4C1DA06B3EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{415E551C-49A7-4634-83DF-6BB44E8B8DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{415E551C-49A7-4634-83DF-6BB44E8B8DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{415E551C-49A7-4634-83DF-6BB44E8B8DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2517280F-71F1-40DE-BD93-F4C1DA06B3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2517280F-71F1-40DE-BD93-F4C1DA06B3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2517280F-71F1-40DE-BD93-F4C1DA06B3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2517280F-71F1-40DE-BD93-F4C1DA06B3EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
