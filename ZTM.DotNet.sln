@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments", "Option
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{0B9636AD-8FE8-45A2-88D7-58894C991AD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{16631CEE-2495-41BB-BED5-C7112266F626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16631CEE-2495-41BB-BED5-C7112266F626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16631CEE-2495-41BB-BED5-C7112266F626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16631CEE-2495-41BB-BED5-C7112266F626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16631CEE-2495-41BB-BED5-C7112266F626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
