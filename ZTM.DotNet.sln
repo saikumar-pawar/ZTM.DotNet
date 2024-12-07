@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedArguments", "NamedArgu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments", "OptionalArguments\OptionalArguments.csproj", "{B7725A5E-0046-4625-8235-671E4B0950DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{0B9636AD-8FE8-45A2-88D7-58894C991AD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{B7725A5E-0046-4625-8235-671E4B0950DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7725A5E-0046-4625-8235-671E4B0950DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7725A5E-0046-4625-8235-671E4B0950DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9636AD-8FE8-45A2-88D7-58894C991AD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
