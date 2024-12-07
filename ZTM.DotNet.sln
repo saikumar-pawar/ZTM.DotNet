@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{FD7C0824-4215-4A1F-8F8A-5908C046FD15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedArguments", "NamedArguments\NamedArguments.csproj", "{1DC1C8B1-26C5-4C3C-AE56-4937517B9384}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{FD7C0824-4215-4A1F-8F8A-5908C046FD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD7C0824-4215-4A1F-8F8A-5908C046FD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD7C0824-4215-4A1F-8F8A-5908C046FD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC1C8B1-26C5-4C3C-AE56-4937517B9384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC1C8B1-26C5-4C3C-AE56-4937517B9384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC1C8B1-26C5-4C3C-AE56-4937517B9384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC1C8B1-26C5-4C3C-AE56-4937517B9384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
