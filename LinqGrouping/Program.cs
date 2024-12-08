@@ -1,15 +1,15 @@
 ﻿
-var persons = new List<Person>{
-    new Person("Jason", "Lee", "Sales"),
-    new Person("John", "Wick", "Development"),
-    new Person("Ricky", "Pointing", "Development"),
-    new Person("Sandeep", "Sharma", "Sales"),
-    new Person("Ramesh", "Pawar", "Development")
+var employees = new List<Employee>{
+    new Employee("Jason", "Lee", "Sales"),
+    new Employee("John", "Wick", "Development"),
+    new Employee("Ricky", "Pointing", "Development"),
+    new Employee("Sandeep", "Sharma", "Sales"),
+    new Employee("Ramesh", "Pawar", "Development")
 };
 
-var personsByDepartment = persons.GroupBy(p => p.Department);
+var employeesByDepartment = employees.GroupBy(p => p.Department);
 
-foreach (var department in personsByDepartment)
+foreach (var department in employeesByDepartment)
 {
     Console.WriteLine($"Department: {department.Key}");
 
@@ -19,4 +19,4 @@ foreach (var department in personsByDepartment)
     }
 }
 
-public record Person(string FirstName, string LastName, string Department);
+public record Employee(string FirstName, string LastName, string Department);
