@@ -27,11 +27,31 @@ public sealed class CalculatorTests
     }
 
     [TestMethod]
-    [ExpectedException(typeof(DivideByZeroException))]
+    [ExpectedException(typeof(ArgumentException))]
     public void Calculator_Divide_ThrowsExceptionFor20And0()
     {
         var calculator = new Calculator();
 
         calculator.Divide(20, 0);
+    }
+
+    [TestMethod]
+    public void Calculator_Multiply_Returns120For12Aand10()
+    {
+        var calculator = new Calculator();
+
+        var result = calculator.Multiply(12, 10);
+
+        Assert.AreEqual(120, result);
+    }
+
+    [TestMethod]
+    public void Calculator_Substract_Returns32For34And2()
+    {
+        var calculator = new Calculator();
+
+        var result = calculator.Substract(34, 2);
+
+        Assert.AreEqual(32, result);
     }
 }
