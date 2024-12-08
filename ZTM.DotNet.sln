@@ -109,6 +109,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_Arrays_and_Collections", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_Advanced", "5_Advanced", "{B73B3372-7799-42D1-B622-DDF07CEA4604}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_LINQ", "6_LINQ", "{6F43F984-AB96-4CA4-8EC4-370FB9A2BDD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
