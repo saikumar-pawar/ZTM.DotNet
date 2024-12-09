@@ -127,6 +127,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_Unit_Tests", "7_Unit_Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8C2A798B-0ABD-4BBB-8812-F3759B0729DE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_ASP_.NET_Core", "8_ASP_.NET_Core", "{FA0540C9-D057-42FB-BC78-D8837532455E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
