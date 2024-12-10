@@ -131,6 +131,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_ASP_.NET_Core", "8_ASP_.N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{AF98AA18-4852-49BF-A04E-86218521530A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{798DA73A-967E-4975-9C33-67A010A8FD09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +363,10 @@ Global
 		{AF98AA18-4852-49BF-A04E-86218521530A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF98AA18-4852-49BF-A04E-86218521530A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF98AA18-4852-49BF-A04E-86218521530A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798DA73A-967E-4975-9C33-67A010A8FD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798DA73A-967E-4975-9C33-67A010A8FD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798DA73A-967E-4975-9C33-67A010A8FD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798DA73A-967E-4975-9C33-67A010A8FD09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -422,5 +428,6 @@ Global
 		{623D3D06-AB3D-4AA8-A1C0-AFE01A44E87D} = {6F43F984-AB96-4CA4-8EC4-370FB9A2BDD5}
 		{8C2A798B-0ABD-4BBB-8812-F3759B0729DE} = {E0350E00-3B16-4C7F-A043-FE4911DC7A5B}
 		{AF98AA18-4852-49BF-A04E-86218521530A} = {FA0540C9-D057-42FB-BC78-D8837532455E}
+		{798DA73A-967E-4975-9C33-67A010A8FD09} = {FA0540C9-D057-42FB-BC78-D8837532455E}
 	EndGlobalSection
 EndGlobal
