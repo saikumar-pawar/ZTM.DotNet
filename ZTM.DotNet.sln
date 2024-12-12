@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorSyntax", "RazorSyntax\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPortfolio", "RazorPortfolio\RazorPortfolio.csproj", "{5250BB52-BEFD-43A8-A289-5C7CC1708EA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorRouting", "RazorRouting\RazorRouting.csproj", "{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -471,6 +473,10 @@ Global
 		{5250BB52-BEFD-43A8-A289-5C7CC1708EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5250BB52-BEFD-43A8-A289-5C7CC1708EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5250BB52-BEFD-43A8-A289-5C7CC1708EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -550,5 +556,6 @@ Global
 		{D48DC4C8-510B-489C-82A6-CDAB8D630C88} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 		{87F16BFA-B0B5-4977-B5F0-942AE0E0FE79} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 		{5250BB52-BEFD-43A8-A289-5C7CC1708EA2} = {44554A65-210C-49DC-9A45-EBC595258DC3}
+		{5CCEF4D4-DA30-47C8-B940-9ED9E3F245F9} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 	EndGlobalSection
 EndGlobal
