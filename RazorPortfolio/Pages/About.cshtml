@@ -1,0 +1,16 @@
+﻿@page
+@model RazorPortfolio.Pages.AboutModel
+@{
+}
+
+<div class="text-center">
+    <h1>Ricky Pointing</h1>
+    <p>Software developer, Instructor</p>
+    <div>
+        <b>Programming Languages:</b>
+        @foreach (var language in Model.ProgrammingLanguages)
+        {
+            <div>@language</div>
+        }
+    </div>
+</div>
