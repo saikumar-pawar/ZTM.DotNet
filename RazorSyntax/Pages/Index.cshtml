@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome @Model.FirstName</h1>
+    <p>In 6 hours the time is: @(DateTime.Now + TimeSpan.FromHours(6))</p>
+    @{}
+</div>
