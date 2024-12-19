@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorDependencyInjection", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorTagHelpers", "RazorTagHelpers\RazorTagHelpers.csproj", "{A9B8D540-5D1D-42A8-92CA-1900F144B29A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorActionResults", "RazorActionResults\RazorActionResults.csproj", "{90BB0739-BF28-4A75-8C16-49DB71F22B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{A9B8D540-5D1D-42A8-92CA-1900F144B29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9B8D540-5D1D-42A8-92CA-1900F144B29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9B8D540-5D1D-42A8-92CA-1900F144B29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BB0739-BF28-4A75-8C16-49DB71F22B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BB0739-BF28-4A75-8C16-49DB71F22B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BB0739-BF28-4A75-8C16-49DB71F22B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BB0739-BF28-4A75-8C16-49DB71F22B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -578,5 +584,6 @@ Global
 		{8E3D9481-BE47-450B-A986-E71FE487B21A} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 		{619A18FE-11BD-47DD-BBAD-CDED95D5EE0C} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 		{A9B8D540-5D1D-42A8-92CA-1900F144B29A} = {44554A65-210C-49DC-9A45-EBC595258DC3}
+		{90BB0739-BF28-4A75-8C16-49DB71F22B71} = {44554A65-210C-49DC-9A45-EBC595258DC3}
 	EndGlobalSection
 EndGlobal
