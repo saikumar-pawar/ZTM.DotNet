@@ -1,5 +1,9 @@
 ﻿@model ContactFormModel
 
+@section scripts {
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+
 <h2>Contact</h2>
 
 <form asp-action="Index" method="post">
