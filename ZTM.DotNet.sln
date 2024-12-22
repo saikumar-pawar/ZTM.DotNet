@@ -219,6 +219,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorComponents", "RazorCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorComponentExercise", "RazorComponentExercise\RazorComponentExercise.csproj", "{86EF21BD-B4A1-42F7-9358-7337C2992BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentParameters", "ComponentParameters\ComponentParameters.csproj", "{0FA6619D-7EA8-46AF-A535-3F87003AA4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -613,6 +615,10 @@ Global
 		{86EF21BD-B4A1-42F7-9358-7337C2992BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86EF21BD-B4A1-42F7-9358-7337C2992BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86EF21BD-B4A1-42F7-9358-7337C2992BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -715,5 +721,6 @@ Global
 		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{55D22C24-4BB1-4F57-9022-7C4AE45DB1C6} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{86EF21BD-B4A1-42F7-9358-7337C2992BE2} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
