@@ -211,6 +211,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_ASP_.NET_Core_Blazor", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerApp", "BlazorServerApp\BlazorServerApp.csproj", "{98CFABC5-034D-4FC7-A620-641129D61A5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyApp", "BlazorWebAssemblyApp\BlazorWebAssemblyApp\BlazorWebAssemblyApp.csproj", "{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyApp.Client", "BlazorWebAssemblyApp\BlazorWebAssemblyApp.Client\BlazorWebAssemblyApp.Client.csproj", "{5FF1B95D-BC94-49D6-A651-5B3C96B07C84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -589,6 +593,14 @@ Global
 		{98CFABC5-034D-4FC7-A620-641129D61A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CFABC5-034D-4FC7-A620-641129D61A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CFABC5-034D-4FC7-A620-641129D61A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -687,5 +699,7 @@ Global
 		{F7401D2E-549C-4476-AB85-DD1886B91624} = {B6BC3419-3697-49F4-9556-BCCDD6400CB6}
 		{A10BC71F-BB75-4998-B923-59547E15E3FF} = {B6BC3419-3697-49F4-9556-BCCDD6400CB6}
 		{98CFABC5-034D-4FC7-A620-641129D61A5F} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{CC72929D-7D7F-4126-A7BB-C4CF6BC6DF1A} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{5FF1B95D-BC94-49D6-A651-5B3C96B07C84} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
