@@ -227,6 +227,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylingComponents", "Stylin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSIsolation", "CSSIsolation\CSSIsolation.csproj", "{C23AC34E-8D47-454C-82B6-CECB937F9EB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalRendering", "ConditionalRendering\ConditionalRendering.csproj", "{26A062E1-02E4-434B-A598-B694CF2BA26E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -637,6 +639,10 @@ Global
 		{C23AC34E-8D47-454C-82B6-CECB937F9EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C23AC34E-8D47-454C-82B6-CECB937F9EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C23AC34E-8D47-454C-82B6-CECB937F9EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A062E1-02E4-434B-A598-B694CF2BA26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A062E1-02E4-434B-A598-B694CF2BA26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A062E1-02E4-434B-A598-B694CF2BA26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A062E1-02E4-434B-A598-B694CF2BA26E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -743,5 +749,6 @@ Global
 		{A6C30873-5777-4925-B7BE-8A4A5C46E2A8} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{0166E2B2-EF06-439C-B608-C5A96CCF19FC} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{C23AC34E-8D47-454C-82B6-CECB937F9EB8} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{26A062E1-02E4-434B-A598-B694CF2BA26E} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
