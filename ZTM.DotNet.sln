@@ -223,6 +223,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentParameters", "Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentLifecycleMethods", "ComponentLifecycleMethods\ComponentLifecycleMethods.csproj", "{A6C30873-5777-4925-B7BE-8A4A5C46E2A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StylingComponents", "StylingComponents\StylingComponents.csproj", "{0166E2B2-EF06-439C-B608-C5A96CCF19FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -625,6 +627,10 @@ Global
 		{A6C30873-5777-4925-B7BE-8A4A5C46E2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C30873-5777-4925-B7BE-8A4A5C46E2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C30873-5777-4925-B7BE-8A4A5C46E2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0166E2B2-EF06-439C-B608-C5A96CCF19FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0166E2B2-EF06-439C-B608-C5A96CCF19FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0166E2B2-EF06-439C-B608-C5A96CCF19FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0166E2B2-EF06-439C-B608-C5A96CCF19FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -729,5 +735,6 @@ Global
 		{86EF21BD-B4A1-42F7-9358-7337C2992BE2} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{0FA6619D-7EA8-46AF-A535-3F87003AA4BA} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{A6C30873-5777-4925-B7BE-8A4A5C46E2A8} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{0166E2B2-EF06-439C-B608-C5A96CCF19FC} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
