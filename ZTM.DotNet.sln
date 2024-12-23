@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLayouts", "BlazorLayo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandlers", "EventHandlers\EventHandlers.csproj", "{94E3B3B2-61EC-44B8-A5DE-D1B15B974C1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventCallbacks", "EventCallbacks\EventCallbacks.csproj", "{7996D452-2F37-4D52-AEFB-C98DFAC259C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -673,6 +675,10 @@ Global
 		{94E3B3B2-61EC-44B8-A5DE-D1B15B974C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E3B3B2-61EC-44B8-A5DE-D1B15B974C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E3B3B2-61EC-44B8-A5DE-D1B15B974C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7996D452-2F37-4D52-AEFB-C98DFAC259C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7996D452-2F37-4D52-AEFB-C98DFAC259C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7996D452-2F37-4D52-AEFB-C98DFAC259C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7996D452-2F37-4D52-AEFB-C98DFAC259C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -785,5 +791,6 @@ Global
 		{DBDC8443-175A-4E40-A4AA-5664D2A2C766} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{4513D395-475C-4939-BEBD-3B8CF9648724} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{94E3B3B2-61EC-44B8-A5DE-D1B15B974C1E} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{7996D452-2F37-4D52-AEFB-C98DFAC259C1} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
