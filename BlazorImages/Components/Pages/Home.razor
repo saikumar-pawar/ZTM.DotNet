@@ -1,0 +1,15 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div>
+<img src="@ImageSource" style="width: 600px" alt="Pinaka" />
+</div>
+
+@code {
+    public string ImageSource { get; private set; } = "images/pinaka.jpg";
+}

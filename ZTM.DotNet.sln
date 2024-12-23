@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrerenderingServerComponent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLayouts", "BlazorLayouts\BlazorLayouts.csproj", "{4513D395-475C-4939-BEBD-3B8CF9648724}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorImages", "BlazorImages\BlazorImages.csproj", "{DBDC8443-175A-4E40-A4AA-5664D2A2C766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -661,6 +663,10 @@ Global
 		{4513D395-475C-4939-BEBD-3B8CF9648724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4513D395-475C-4939-BEBD-3B8CF9648724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4513D395-475C-4939-BEBD-3B8CF9648724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC8443-175A-4E40-A4AA-5664D2A2C766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC8443-175A-4E40-A4AA-5664D2A2C766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC8443-175A-4E40-A4AA-5664D2A2C766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC8443-175A-4E40-A4AA-5664D2A2C766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -771,5 +777,6 @@ Global
 		{463FF0B8-CCC5-4A57-AB7E-9FA167D7978F} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{D002DC48-D459-45A4-91F5-17F8B5FB9302} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{4513D395-475C-4939-BEBD-3B8CF9648724} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{DBDC8443-175A-4E40-A4AA-5664D2A2C766} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
