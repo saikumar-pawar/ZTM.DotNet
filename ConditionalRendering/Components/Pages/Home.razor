@@ -1,0 +1,29 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+@if (IsMorning || IsAfternoon)
+{
+    <div>Good day!</div>
+}
+else
+{
+    <div>Good evening!</div>
+}
+
+<div>Good @(IsMorning || IsAfternoon ? "day" : "evening")!</div>
+
+<div class="@GetClasses()">What a beutiful day!</div>
+
+@code {
+    public bool IsMorning { get; private set; } = DateTime.Now.Hour < 12;
+    public bool IsAfternoon { get; private set; } = DateTime.Now.Hour >= 12 && DateTime.Now.Hour < 18;
+    public bool IsEvening { get; private set; } = DateTime.Now.Hour > 18;
+
+    public string GetClasses()
+    {
+        return IsMorning || IsAfternoon ? "day" : "evening";
+    }
+}
