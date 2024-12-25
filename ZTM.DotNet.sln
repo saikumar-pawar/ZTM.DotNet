@@ -283,6 +283,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorFormsValidation", "Bl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLogging", "BlazorLogging\BlazorLogging.csproj", "{0A459FB9-823B-4B73-A0B5-F3AB48F5287A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMudBlazor", "BlazorMudBlazor\BlazorMudBlazor.csproj", "{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -801,6 +803,10 @@ Global
 		{0A459FB9-823B-4B73-A0B5-F3AB48F5287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A459FB9-823B-4B73-A0B5-F3AB48F5287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A459FB9-823B-4B73-A0B5-F3AB48F5287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -935,5 +941,6 @@ Global
 		{7916E62A-A4F1-4EDE-95B9-3D9805278AF4} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{3D16E578-EB4B-46AF-8775-DD06E1F08FE9} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{0A459FB9-823B-4B73-A0B5-F3AB48F5287A} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
