@@ -1,0 +1,10 @@
+﻿<h3>Bicycle</h3>
+
+<p>@BikeInfo.Brand @BikeInfo.Model</p>
+
+<Frame></Frame>
+
+@code {
+    [CascadingParameter(Name = "Bike")]
+    public BikeInfo BikeInfo { get; set; }
+}
