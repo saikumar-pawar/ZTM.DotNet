@@ -253,6 +253,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorNavigation", "BlazorN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CascadingValues", "CascadingValues\CascadingValues.csproj", "{6A785D48-39F6-4EAE-A8AE-D21E6E7C48E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateContainers", "StateContainers\StateContainers.csproj", "{BC3D5B31-C6BB-42AE-A0ED-D148286C9142}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -715,6 +717,10 @@ Global
 		{6A785D48-39F6-4EAE-A8AE-D21E6E7C48E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A785D48-39F6-4EAE-A8AE-D21E6E7C48E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A785D48-39F6-4EAE-A8AE-D21E6E7C48E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3D5B31-C6BB-42AE-A0ED-D148286C9142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D5B31-C6BB-42AE-A0ED-D148286C9142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D5B31-C6BB-42AE-A0ED-D148286C9142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D5B31-C6BB-42AE-A0ED-D148286C9142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -834,5 +840,6 @@ Global
 		{0F67EDE2-C70C-4F78-8988-C294FC820344} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{CFCD8298-0FAE-4405-8E75-D8AA743D727D} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{6A785D48-39F6-4EAE-A8AE-D21E6E7C48E2} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{BC3D5B31-C6BB-42AE-A0ED-D148286C9142} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
