@@ -285,6 +285,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorLogging", "BlazorLogg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMudBlazor", "BlazorMudBlazor\BlazorMudBlazor.csproj", "{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorJavaScriptInterop", "BlazorJavaScriptInterop\BlazorJavaScriptInterop.csproj", "{EF80C918-86CB-42A2-98F0-FBF997F01DBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -807,6 +809,10 @@ Global
 		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF80C918-86CB-42A2-98F0-FBF997F01DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF80C918-86CB-42A2-98F0-FBF997F01DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF80C918-86CB-42A2-98F0-FBF997F01DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF80C918-86CB-42A2-98F0-FBF997F01DBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -942,5 +948,6 @@ Global
 		{3D16E578-EB4B-46AF-8775-DD06E1F08FE9} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{0A459FB9-823B-4B73-A0B5-F3AB48F5287A} = {8513891B-3145-4458-B754-206E8B253EFB}
 		{0C73EC9A-C172-4042-B12F-AF6B45E97E5E} = {8513891B-3145-4458-B754-206E8B253EFB}
+		{EF80C918-86CB-42A2-98F0-FBF997F01DBF} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
