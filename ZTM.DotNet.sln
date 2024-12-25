@@ -269,6 +269,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCLBlazorWebAssembly.Client
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedComponents", "SharedComponents\SharedComponents.csproj", "{14A34A05-BAA5-442D-85E9-00FA74F1169B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLoadingBlazorServer", "DataLoadingBlazorServer\DataLoadingBlazorServer.csproj", "{1483369F-99C4-4B91-9120-213446AD5679}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -759,6 +761,10 @@ Global
 		{14A34A05-BAA5-442D-85E9-00FA74F1169B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14A34A05-BAA5-442D-85E9-00FA74F1169B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14A34A05-BAA5-442D-85E9-00FA74F1169B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1483369F-99C4-4B91-9120-213446AD5679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1483369F-99C4-4B91-9120-213446AD5679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1483369F-99C4-4B91-9120-213446AD5679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1483369F-99C4-4B91-9120-213446AD5679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -886,5 +892,6 @@ Global
 		{722B1750-7FA4-47B1-8E53-62C072B845B5} = {8C08CCD8-4EC6-4447-B959-02511F119F6E}
 		{58D1DD7A-F6CB-4C55-BD57-48CFD4AB4702} = {8C08CCD8-4EC6-4447-B959-02511F119F6E}
 		{14A34A05-BAA5-442D-85E9-00FA74F1169B} = {8C08CCD8-4EC6-4447-B959-02511F119F6E}
+		{1483369F-99C4-4B91-9120-213446AD5679} = {8513891B-3145-4458-B754-206E8B253EFB}
 	EndGlobalSection
 EndGlobal
